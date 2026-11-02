@@ -1,9 +1,16 @@
 # Internal Team Training Analytics - Data Cleaning and modelling
 
-This project demonstrates end-to-end **data cleaning and analytics** of internal team training attendance data using Power BI and Power Query.  
-The dataset contained messy values such as inconsistent session names, invalid employee IDs, nulls, and duplicates.  
-I applied systematic cleaning steps and built an interactive dashboard to extract meaningful insights.
+# Project Overview
 
+This project analyzes internal employee training attendance data using Power BI and Power Query. The goal is to improve the reliability of training records, standardize inconsistent session names, identify invalid employee IDs and duplicate attendance entries, and provide visibility into data quality.
+
+The project demonstrates an end-to-end analytics workflow, from raw data ingestion and transformation to data quality reporting and interactive dashboard development.
+
+# Business Problem
+
+Inconsistent session names, invalid employee identifiers, missing values, and duplicate attendance records can reduce the reliability of training reports. These issues make it difficult for HR and training teams to accurately monitor participation and maintain trustworthy records.
+
+This project addresses these challenges by cleaning and validating attendance data and presenting data quality indicators in Power BI.
 ---
 
 ## 🔹 Steps Followed
