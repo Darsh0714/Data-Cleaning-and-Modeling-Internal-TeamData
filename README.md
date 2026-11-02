@@ -1,4 +1,4 @@
-# Data Cleaning and modelling
+# Data Cleaning and modeling
 
 # Project Overview
 
