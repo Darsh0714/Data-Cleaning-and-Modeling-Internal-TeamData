@@ -1,4 +1,4 @@
-# Internal Team Training Analytics - Data Cleaning and modelling
+# Data Cleaning and modelling
 
 # Project Overview
 
