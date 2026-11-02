@@ -70,7 +70,7 @@ Internal_Team_Training_Analytics/
 │   ├── clean_data.png
 │   └── data_cleaning_steps.png
 └── README.md
-
+```
 ## 🔹 Tech Stack
 - **Power BI**: Power Query (M language), DAX, Data Modeling
 - **Excel**: Raw data input
