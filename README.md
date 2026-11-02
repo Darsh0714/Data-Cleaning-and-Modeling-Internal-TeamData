@@ -58,16 +58,17 @@ This project addresses these challenges by cleaning and validating attendance da
 
 
 
-## 🔹 Project Structure
+## 📁 Project Structure
+
+```text
 Internal_Team_Training_Analytics/
-│
 ├── data/
-│ ├── messy_training_attendance.xlsx # raw dataset
-│ └── cleaned_training_attendance.csv # cleaned dataset
-│
+│   ├── messy_training_attendance.xlsx
+│   └── cleaned_training_attendance.csv
 ├── screenshots/
-│ └── data_cleaning_steps.png
-│
+│   ├── messy_data.png
+│   ├── clean_data.png
+│   └── data_cleaning_steps.png
 └── README.md
 
 ## 🔹 Tech Stack
