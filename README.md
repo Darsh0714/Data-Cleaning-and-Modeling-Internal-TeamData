@@ -11,7 +11,7 @@ The project demonstrates an end-to-end analytics workflow, from raw data ingesti
 Inconsistent session names, invalid employee identifiers, missing values, and duplicate attendance records can reduce the reliability of training reports. These issues make it difficult for HR and training teams to accurately monitor participation and maintain trustworthy records.
 
 This project addresses these challenges by cleaning and validating attendance data and presenting data quality indicators in Power BI.
----
+
 
 ## 🔹 Steps Followed
 
